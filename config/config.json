@@ -1,0 +1,43 @@
+{
+  "calculation_params": {
+    "base_currency": "EUR",
+    "commission_index": 0.02,
+    "commission_index_eu": 0.01
+  },
+  "api_client_params": {
+    "ApiCardInfo_class": "BinlistApiCardInfo",
+    "ApiCardInfo_token": "",
+    "ApiExchangeRate_class": "ApiLayerExchangeRate",
+    "ApiExchangeRate_token": "ojxVcPpXHpgwRdWQJsN3xS9dBP70t1G0"
+  },
+  "europe_countries_codes": {
+    "Austria": "AT",
+    "Belgium": "BE",
+    "Bulgaria": "BG",
+    "Cyprus": "CY",
+    "Czechia": "CZ",
+    "Germany": "DE",
+    "Denmark": "DK",
+    "Estonia": "EE",
+    "Spain": "ES",
+    "Finland": "FI",
+    "France": "FR",
+    "Greece": "GR",
+    "Croatia": "HR",
+    "Hungary": "HU",
+    "Ireland": "IE",
+    "Italy": "IT",
+    "Latvia": "LT",
+    "Luxembourg": "LU",
+    "Lithuania": "LV",
+    "Malta": "MT",
+    "Netherlands": "NL",
+    "Poland": "PO",
+    "Portugal": "PT",
+    "Romania": "RO",
+    "Sweden": "SE",
+    "Slovenia": "SI",
+    "Slovakia": "SK"
+
+  }
+}
